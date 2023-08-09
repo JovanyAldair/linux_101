@@ -10,7 +10,7 @@ The vagrant will execute the Vagrantfile in this directory, and will create one 
 
 `m1.vm.provision "shell", path: "provision.sh"`
 
-This script contains istructions to define: 
+This script contains istructions to: 
 
 * Install the packages: git vim net-tools curl wget
 
